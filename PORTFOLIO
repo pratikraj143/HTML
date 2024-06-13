@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+<header>
+   <h1>Pratik Raj</h1>
+   <img src="Picture1.jpg" alt="my pic" height="300px" width="200px"> 
+   <hr>
+</header>
+<section>
+   <h2>Education</h2>
+   <ul>
+       <li><b>10th (CBSE) :</b> 72%</li>
+       <li><b>12th (CBSE) :</b> 72%</li>
+       <li> <b>BCA in computer applications (PPU) :</b>  72%</li>
+       <li> <b>MCA (NIT kkr) :</b> Persuing</li>  
+   </ul>
+   <hr>
+</section>
+<section>
+   <h2>Skills</h2>
+   <ul>
+       <li><b>C, C++</b> </li>
+       <li><b>Java </b> </li>
+       <li><b>Visual basics, Sql </b> </li>
+       <li><b>HTML </b> </li>  
+   </ul>
+   <hr>
+</section>
+<section>
+   <h2>Hobbies</h2>
+   <ul>
+    <li><b>Playing Chess</b></li>
+    <li><b>Listening Music</b></li>
+    <li><b>Coding</b></li>
+   </ul>
+   <hr>
+</section>
+<footer>
+   <h2>Contact</h2>
+   <ul>
+       <li>Mob no: <b>7667107958</b></li>
+       <li>Email id:<b>523110057@nitkkr.ac.in</b></li>
+   </ul>
+   <hr>
+      <p>made by &hearts; pratik raj.</p>
+</footer>
+</body>
+</html>
